@@ -30,6 +30,8 @@ Things a User should have / do:
  <li>Rate / Review books, authors, and series</li>
  <li>Add / Remove favorites</li>
  <li>Edit rating / reviews</li>
+ <li>Track how many pages of the book they've read</li>
+ <li>Create booklists</li>
 
  <h3>
  Tech Stack:
